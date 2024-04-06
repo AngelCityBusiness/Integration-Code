@@ -1,4 +1,4 @@
-// 18604.js
+// 18604_texasbbqwagon.js
 
 (function() {
 
@@ -22,7 +22,7 @@
     document.head.appendChild(style);
 
 //************************************************
-//NEW INTEGRATION CODE: <script src="https://www.angelcitymarketing.com/18604.js"></script>
+//NEW INTEGRATION CODE: <script src="https://www.angelcitymarketing.com/18604_texasbbqwagon.js"></script>
 //************************************************
 
     
