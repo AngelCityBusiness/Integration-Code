@@ -1,6 +1,6 @@
 // bot-17200.js
 
-function() {
+(function() {
 
 // Load the chat plugin
 
