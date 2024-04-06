@@ -25,7 +25,7 @@ document.head.appendChild(style);
 //PUT NEW INTEGRATION CODE IN COMMENT BELOW!!!
 
 //************************************************
-//NEW INTEGRATION CODE: <script src="https://www.angelcitymarketing.com/bot-18600.js"></script>
+//NEW INTEGRATION CODE: <script src="https://www.angelcitymarketing.com/18600.js"></script>
 //************************************************
 
 // Optionally, add any additional JavaScript code here
