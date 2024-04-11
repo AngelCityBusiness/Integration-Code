@@ -21,10 +21,18 @@
     }
     document.head.appendChild(style);
 
-//************************************************
-//NEW INTEGRATION CODE: <script src="https://www.angelcitymarketing.com/19015_Coachella.js"></script>
-//************************************************
+    //************************************************
+    //NEW INTEGRATION CODE: <script src="https://www.angelcitymarketing.com/19015_Coachella.js"></script>
+    //************************************************
     
     // Optionally, add any additional JavaScript code here
 
-})(); // This closes the IIFE correctly.
+    // Ensure the script runs in noConflict mode to avoid conflicts with other libraries
+    var $ = jQuery.noConflict(true);
+
+    // Wrap your code in a ready event handler to ensure it executes after the DOM is fully loaded
+    $(document).ready(function() {
+        // Your additional JavaScript code here
+    });
+
+})();
