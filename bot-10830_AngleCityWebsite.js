@@ -1,6 +1,6 @@
 // bot-10830_AngleCityWebsite.js
 
-function() {
+(function() {
 
 // Load the chat plugin
 
