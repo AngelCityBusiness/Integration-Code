@@ -26,6 +26,8 @@
 
     //************************************************
     //NEW INTEGRATION CODE: <script src="https://www.angelcitymarketing.com/FILE_NAME_HERE.js"></script>
+
+    //Notice the Integration code does NOT include the repository name. The repo name is not necessary for the integration code.
     //************************************************
     
     // Optionally, add any additional JavaScript code here
