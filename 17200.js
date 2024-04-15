@@ -22,7 +22,7 @@
     document.head.appendChild(style);
 
 //************************************************
-//NEW INTEGRATION CODE: <script src="https://www.angelcitymarketing.com/17200.js"></script>
+//NEW INTEGRATION CODE: <script src="https://code.angelcitymarketing.com/17200.js"></script>
 //************************************************
     
     // Optionally, add any additional JavaScript code here
