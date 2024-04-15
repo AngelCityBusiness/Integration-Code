@@ -23,7 +23,7 @@
 
 
 //************************************************
-//NEW INTEGRATION CODE: <script src="https://www.angelcitymarketing.com/18598.js"></script>
+//NEW INTEGRATION CODE: <script src="https://code.angelcitymarketing.com/18598.js"></script>
 //************************************************
     
     // Optionally, add any additional JavaScript code here
