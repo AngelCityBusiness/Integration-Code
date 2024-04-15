@@ -8,6 +8,7 @@
     script.setAttribute('data-bot-id', '18598'); // Setting the bot ID
     document.head.appendChild(script);
 
+    
     // Add custom CSS styling
     var css = `div.talktext p {
         color: black !important;
