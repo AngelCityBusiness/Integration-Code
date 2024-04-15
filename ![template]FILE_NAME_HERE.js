@@ -5,6 +5,7 @@
 
 (function() {
 
+    
     // Load the chat plugin
     var script = document.createElement('script');
     script.src = 'https://app.aminos.ai/js/chat_plugin_ghl.js'; // Original script source
