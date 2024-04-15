@@ -25,7 +25,7 @@
     document.head.appendChild(style);
 
     //************************************************
-    //NEW INTEGRATION CODE: <script src="https://www.angelcitymarketing.com/FILE_NAME_HERE.js"></script>
+    //NEW INTEGRATION CODE: <script src="https://code.angelcitymarketing.com/FILE_NAME_HERE.js"></script>
 
     //Notice the Integration code does NOT include the repository name. The repo name is not necessary for the integration code.
     //************************************************
