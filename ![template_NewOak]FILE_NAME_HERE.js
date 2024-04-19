@@ -10,7 +10,7 @@
     var script = document.createElement('script');
 
   
-  //------- For NewOak.ai floating embed integration code
+  /*------- For NewOak.ai floating embed integration code
   
   <script>
   window.chatpilotConfig = {
@@ -23,7 +23,7 @@
   charset="utf-8"
   defer
   ></script>
-  
+  */
 
 /* 
 ------- For NewOak.ai iframe embed integration code
