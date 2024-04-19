@@ -1,7 +1,7 @@
-// FILE_NAME_HERE.js
+// NewOak_Angelo_36fe8c70c89c45f6a8b931c5d8624ddc.js
 
 // MAKE SURE TO END YOUR FILE NAME IN ".js" !!
-// I recommend a file name like "bot-#####_business_name.js"
+// I recommend a file name like "#####_business_name.js"
 
 (function() {
 
