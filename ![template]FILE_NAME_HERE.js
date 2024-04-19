@@ -28,7 +28,7 @@
         style.appendChild(document.createTextNode(css));
     }
     document.head.appendChild(style);
-    <div id="chat_form"></div>
+    
     //************************************************
     //NEW INTEGRATION CODE: <script src="https://code.angelcitymarketing.com/FILE_NAME_HERE.js"></script>
      //MAKE SURE TO ADD: <div id="chat_form"></div>
