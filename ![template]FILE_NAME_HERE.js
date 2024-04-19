@@ -31,6 +31,8 @@
     <div id="chat_form"></div>
     //************************************************
     //NEW INTEGRATION CODE: <script src="https://code.angelcitymarketing.com/FILE_NAME_HERE.js"></script>
+     //MAKE SURE TO ADD: <div id="chat_form"></div>
+     //WITHIN THE HTML BLOCK IF THE FILE IS FOR IFRAME EMBED
 
     //Notice the Integration code does NOT include the repository name. The repo name is not necessary for the integration code.
     //************************************************
