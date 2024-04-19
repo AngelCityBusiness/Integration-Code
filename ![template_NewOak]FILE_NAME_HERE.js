@@ -8,9 +8,15 @@
     
     // Load the chat plugin
     var script = document.createElement('script');
-
+    script.src = 'https://www.newoaks.ai/embed.min.js'; // Regular website Original Script. // Comment out if not using.
+    //script.src = 'https://app.aminos.ai/js/chat_plugin_ghl.js'; // GoHighLevel Original Script. // Comment out if not using.
+    //script.src = 'https://app.aminos.ai/js/chat_form_plugin.js'; // Inline Website Original Script. // Comment out if not using.
   
   /*------- For NewOak.ai floating embed integration code
+
+  
+  THIS IS WHAT I NEED TO GIVE TO MY CLIENTS, NOT THE SMALL INTEGRATION CODE BECAUSE THIS HAS HTML IN IT!! THIS IS THE CODE!
+
   
   <script>
   window.chatpilotConfig = {
@@ -43,7 +49,7 @@
 ></iframe>
   */
  
-    script.setAttribute('data-bot-id', '#####'); // Setting the bot ID
+    script.setAttribute('data-bot-id', '#############################'); // Setting the bot ID
     document.head.appendChild(script);
 
     //************************************************
