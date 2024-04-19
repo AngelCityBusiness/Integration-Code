@@ -38,11 +38,11 @@
     // Optionally, add any additional JavaScript code here
 
     // Ensure the script runs in noConflict mode to avoid conflicts with other libraries
-    var $ = jQuery.noConflict(true);
-
-    // Wrap code in a ready event handler to ensure it executes after the DOM is fully loaded
-    $(document).ready(function() {
-        // Any additional JavaScript code here
-    });
+     if (window.jQuery) {
+        var $ = jQuery.noConflict(true);
+        $(document).ready(function() {
+            // Additional jQuery-dependent code can be added here
+        });
+    }
 
 })();
