@@ -40,11 +40,13 @@
     // Optionally, add any additional JavaScript code here
 
     // Ensure the script runs in noConflict mode to avoid conflicts with other libraries
-     if (window.jQuery) {
+    /* 
+    if (window.jQuery) {
         var $ = jQuery.noConflict(true);
         $(document).ready(function() {
             // Additional jQuery-dependent code can be added here
         });
     }
+*/
 
 })();
