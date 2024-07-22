@@ -13,7 +13,7 @@
     //script.src = 'https://app.aminos.ai/js/chat_plugin_ghl.js'; // GoHighLevel Original Script. // Comment out if not using.
     //script.src = 'https://app.aminos.ai/js/chat_form_plugin.js'; // Inline Website Original Script. // Comment out if not using.
     
-    script.setAttribute('data-bot-id', '#####'); // Setting the bot ID
+    script.setAttribute('data-bot-id', '#####'); // Input Bot ID here by replacing ##### with your bot number.
     document.head.appendChild(script);
 
     // Add custom CSS styling
